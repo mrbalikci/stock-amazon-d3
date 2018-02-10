@@ -1,4 +1,4 @@
-var apiKey = "knMnRdxve7cL5MSFf39V"
+var apiKey = "****Rdxve7cL5MSFf39V"
 
 var url = `https://www.quandl.com/api/v3/datasets/WIKI/AMZN.json?start_date=2016-10-01&end_date=2017-10-01&api_key=${apiKey}`
 
